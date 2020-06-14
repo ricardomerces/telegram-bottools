@@ -1,6 +1,6 @@
 # Quick Start
 ```
-from bot_tools import tools as bot
+from bottools import tools as bot
 
 bot_config = (-1111111, '999999:AAAAAAAA')
 message = 'Hello World!'
