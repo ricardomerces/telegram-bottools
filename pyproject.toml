@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "telegram-bottools"
-version = "0.1.2"
+version = "0.1.3"
 description = "Telegram Bot Tools"
 authors = ["Ricardo Merces <ricardo.merces@gmail.com>"]
 readme = "README.md"
