@@ -1,9 +1,10 @@
 # Create Telegram Bot
 Telegram -> BotFather -> Type `/newbot`
+
 https://core.telegram.org/bots/tutorial#creating-your-command
 
 # Get Chat ID
-https://api.telegram.org/bot<token>getUpdates
+https://api.telegram.org/botXXXX:YYYYY/getUpdates
 
 # Install
 ```
